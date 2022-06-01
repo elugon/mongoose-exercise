@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-exercise",
+  "version": "1.0.0",
+  "description": "A repo for my students to practise with mongoose and mongodb",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alebausa/mongoose-exercise.git"
+  },
+  "author": "Ale Bausa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alebausa/mongoose-exercise/issues"
+  },
+  "homepage": "https://github.com/alebausa/mongoose-exercise#readme",
+  "dependencies": {
+    "mongoose": "^6.3.5"
+  }
+}
