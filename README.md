@@ -43,7 +43,7 @@ The schema should include the following fields:
 ```js
 const User = require('./models/User');
 ```
-- After the mongoose connection, use the **create** method to create a new user (user a user of your own invention). Make sure to **return** it so that the following .then() can catch its return value
+- After the mongoose connection, use the **create** method to create a new user (use a user of your own invention). Make sure to **return** it so that the following .then() can catch its return value
 - In the following .then(), uncomment the console.log to see the information of the user you just created
 - Run <code>node main.js</code> in your terminal to see the results
 
