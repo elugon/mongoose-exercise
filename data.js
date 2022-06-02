@@ -23,4 +23,4 @@ module.exports = [
     email: 'kenny@mail.com',
     programmingLevel: 'beginner'
   }
-]
+];
